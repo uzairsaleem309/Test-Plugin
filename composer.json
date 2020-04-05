@@ -19,6 +19,7 @@
     "issues": "https://github.com/uzairsaleem309/Test-Plugin/issues"
   },
   "require": {
+    "php": ">=7.1",
     "composer/installers": "~1.0"
   }
 }
