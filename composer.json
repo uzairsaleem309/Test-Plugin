@@ -1,0 +1,24 @@
+{
+  "name": "test-plugin",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-only",
+  "description": "A plugin to display data from the following API https://jsonplaceholder.typicode.com/",
+  "homepage": "https://github.com/uzairsaleem309/Test-Plugin",
+  "authors": [
+    {
+      "name": "Uzair Saleem",
+      "email": "uzairsaleem309@gmail.com",
+      "homepage": "https://github.com/uzairsaleem309/"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "jsonplaceholder"
+  ],
+  "support": {
+    "issues": "https://github.com/uzairsaleem309/Test-Plugin/issues"
+  },
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
