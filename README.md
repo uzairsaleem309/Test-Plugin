@@ -7,6 +7,11 @@ Tested up to WordPress: 4.7
 2. Upload the plugin files to the `/wp-content/plugins/` directory, or install the plugin through the WordPress plugins screen directly.
 3. Activate the plugin through the 'Plugins' screen in WordPress
 
+## Composer Installation:
+Package: [TestPlugin](https://packagist.org/packages/uzairsaleem309/test-plugin)</br>
+Installation:</br>
+``` composer require uzairsaleem309/test-plugin ```
+
 ## Plugin Description:
 After activating the plugin, you will get a new custom endpoint initialized in your wordpress website, which can be accessed on
 <b>'http://www.yourwebsite.com/test_page/'</b>, on this page a table will be populated with data of users from the following [API](https://jsonplaceholder.typicode.com/users/)
