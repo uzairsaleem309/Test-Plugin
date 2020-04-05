@@ -1,6 +1,6 @@
 # Test-Plugin
 Contributors: Uzair Saleem  
-Tested up to WordPress: 4.7
+Tested up to WordPress: 5.3.2
 
 ## Steps to install the plugin:
 1. Clone or download the repository
