@@ -1,5 +1,5 @@
 {
-  "name": "test-plugin",
+  "name": "uzairsaleem309/test-plugin",
   "type": "wordpress-plugin",
   "license": "GPL-2.0-only",
   "description": "A plugin to display data from the following API https://jsonplaceholder.typicode.com/",
